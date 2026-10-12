@@ -16,7 +16,7 @@ The chatbot currently supports two types of user queries:
   Example:  
   `What is your policy on damaged products?`
 
-- **SQL** — Handles product-related queries that require information from the e-commerce database.
+- **SQL** — Converts natural-language product queries into SQL using an LLM, executes them against a SQLite database, and transforms the results into user-friendly responses.
 
   Example:  
   `Show the top 3 shoes in descending order of rating.`
