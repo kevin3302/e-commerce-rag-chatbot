@@ -1,0 +1,7 @@
+chromadb>=1.5.9
+groq>=1.7.0
+pandas>=3.0.6
+python-dotenv>=1.2.4
+semantic_router>=0.1.16
+streamlit>=1.50.0
+sqlite3>=3.45.1
